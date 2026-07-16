@@ -67,7 +67,13 @@ Palette signature :
 
 | Couleur | Code | Usage |
 |---------|------|-------|
-
+| #0F0E17 | `#0F0E17`| Fond sombre, texte principal |
+| #F72585| `#F72585`| action principale |
+| #00D9FF | `#00D9FF`| liens et mentions |
+| #FFB86C| `#FFB86C`| notifications |
+| #9D4EDD | `#9D4EDD`| hover et badges |
+| #EAEAEA | `#EAEAEA`| texte principal |
+| #A0A0C0 | `#A0A0C0`| texte secondaire |
 
 
 ---
